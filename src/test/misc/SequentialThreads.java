@@ -1,3 +1,4 @@
+package test.misc;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public class SequentialThreads {

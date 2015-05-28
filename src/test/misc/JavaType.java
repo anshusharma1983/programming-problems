@@ -1,3 +1,4 @@
+package test.misc;
 public class JavaType {
 	public static void main(String[] args) {
 		String arguments = "1,1.0,xyz,true,false,1010101010101";

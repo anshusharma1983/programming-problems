@@ -1,3 +1,4 @@
+package test.misc;
 public class SequentialThreads2 {
 	public static class ThreadCount extends Thread {
 		private static int value = 0;

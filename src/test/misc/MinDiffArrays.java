@@ -1,3 +1,4 @@
+package test.misc;
 import java.util.Arrays;
 
 /**
