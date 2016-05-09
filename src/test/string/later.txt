@@ -1,0 +1,8 @@
+http://www.geeksforgeeks.org/transform-one-string-to-another-using-minimum-number-of-given-operation/
+http://www.geeksforgeeks.org/shortest-superstring-problem/
+http://www.geeksforgeeks.org/online-algorithm-for-checking-palindrome-in-a-stream/
+http://www.geeksforgeeks.org/given-array-strings-find-strings-can-chained-form-circle/
+http://www.geeksforgeeks.org/check-given-sentence-given-set-simple-grammer-rules/
+http://www.geeksforgeeks.org/manachers-algorithm-linear-time-longest-palindromic-substring-part-1/
+http://www.geeksforgeeks.org/find-first-non-repeating-character-stream-characters/
+http://www.geeksforgeeks.org/given-a-sequence-of-words-print-all-anagrams-together-set-2/
